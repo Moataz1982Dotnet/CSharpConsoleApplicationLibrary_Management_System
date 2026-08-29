@@ -51,13 +51,5 @@ namespace Library_Management__System
                 isavailable = value;
             }
        }
-
-        //public book(string titlex, string authorx, string isbnx, bool isavalx)
-        //{
-        //    title = titlex;
-        //    author = authorx;
-        //    isbn = isbnx;
-        //    isavailable = isavalx;
-        //}
     }
 }
